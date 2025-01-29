@@ -31,5 +31,4 @@ To run this project locally, you will need the following Python packages:
 - `scikit-learn` (if applicable)
 - `joblib` (if applicable)
 
-You can install the required packages using:
 
